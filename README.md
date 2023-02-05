@@ -35,19 +35,6 @@ I consider myself a **curious** and **inquisitive** person and a **continuous le
 <img height="20" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </p>
 
-<br /><br />
-
-<div align="center">
-	
-<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> **github stats**
-	
-<p>
-<img height="180em" src="https://jf-gh-stats.vercel.app/api?username=adriansinko&amp;show_icons=true&amp;count_private=true&amp;title_color=afc2ef&amp;icon_color=afc2ef&amp;theme=react">
-	
-<img height="180em" src="https://jf-gh-stats.vercel.app/api/top-langs/?username=adriansinko&amp;layout=compact&amp;hide=java&amp;title_color=afc2ef&amp;icon_color=afc2ef&amp;theme=react">
-</p>
-	
-</div>
 
 <!--
 **sitefuture/sitefuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
