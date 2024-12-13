@@ -1,9 +1,4 @@
 ### Hey, I'm Adrian <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-<a href="https://www.linkedin.com/in/adrian-sinko-755366173/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br /><br />
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478pzxsc1s9jjt9aokfwzr0mw0z8f9etnfoseprkk4&rid=giphy.gif&ct=g" width="500" height="320" />
 
@@ -34,19 +29,3 @@ I consider myself a **curious** and **inquisitive** person and a **continuous le
 <img height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </p>
-
-
-<!--
-**sitefuture/sitefuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me **adrians26107@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
